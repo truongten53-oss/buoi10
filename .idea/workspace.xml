@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c267f70-6b38-4e19-8f3c-c65788aed8b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ketthuckhinhap-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tamgiac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/do while1den10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,9 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Testvonglapfor.html.executor": "Run",
+    "JavaScript Debug.do while1den10.html.executor": "Run",
     "JavaScript Debug.ketthuckhinhap-1.html.executor": "Run",
+    "JavaScript Debug.tamgiac.html.executor": "Run",
     "JavaScript Debug.thenuber5.html.executor": "Run",
     "JavaScript Debug.tinhtongsonhapvao.html.executor": "Run",
     "JavaScript Debug.vong lam for each.html.executor": "Run",
@@ -70,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765764648147</updated>
-      <workItem from="1765764649560" duration="10445000" />
+      <workItem from="1765764649560" duration="12425000" />
     </task>
     <servers />
   </component>
